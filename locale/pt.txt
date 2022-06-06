@@ -3,7 +3,7 @@
 ## Hotspot
 
 ### Text
-HotspotPanoramaOverlayTextImage_3F4D8C46_3602_9632_41BA_4692BAACEF21.text = Capela de Santo Antonio
+HotspotPanoramaOverlayTextImage_3F4D8C46_3602_9632_41BA_4692BAACEF21.text = Capela de Santo Antônio
 HotspotPanoramaOverlayTextImage_3F482C37_3602_9652_417D_502FCF7C2233.text = Centro Cultural de Picotes
 
 ## Media
@@ -13,7 +13,7 @@ AudioResource_3FE1FD21_3602_966E_41B6_82B0E22B134E.mp3Url = media/audio_0DC65E1B
 
 ### Image
 imlevel_2603BF6E_360E_B2F2_41A8_DC732099686D.url = media/panorama_F390E36C_F8C1_031C_41E0_081AB2B2711C_HS_6rhrpwx9_pt.png
-imlevel_236FF8B0_3605_9E6E_41C5_39304D367F02.url = media/panorama_F39EABEF_F8C3_031C_41DF_A2480EA644FE_HS_u8yz4zvp_pt.png
+imlevel_2FC7689C_3607_9972_41C0_43A41453C6B3.url = media/panorama_F39EABEF_F8C3_031C_41DF_A2480EA644FE_HS_u8yz4zvp_pt.png
 
 ### Title
 video_E0A260AD_F93F_1D1C_41E3_F9F5C8F64CAA.label = Cin, asp e uru
@@ -37,12 +37,12 @@ panorama_E9ABA1EE_F8C1_3F1D_41E7_08C5A957AF04.label = vila_entrada02
 panorama_F39EB1F5_F8C1_1F0C_41B9_FB3061C97EF1.label = vila_restaurante
 
 ### Video
-videolevel_20E805A7_360F_8B5E_41A1_8F39A3F73F11.posterURL = media/video_E05927E2_F943_0304_41E4_FB8B337928A4_poster_pt.jpg
-videolevel_20E805A7_360F_8B5E_41A1_8F39A3F73F11.url = media/video_E05927E2_F943_0304_41E4_FB8B337928A4_pt.mp4
-videolevel_20FEEE39_360F_99B2_41A9_80C9E474E34A.posterURL = media/video_E0A260AD_F93F_1D1C_41E3_F9F5C8F64CAA_poster_pt.jpg
-videolevel_20FEEE39_360F_99B2_41A9_80C9E474E34A.url = media/video_E0A260AD_F93F_1D1C_41E3_F9F5C8F64CAA_pt.mp4
-videolevel_20F432E8_360F_8ED2_417D_E1E87C567728.posterURL = media/video_E1B652D8_F941_1D04_41CF_6CD6FAABDEA4_poster_pt.jpg
-videolevel_20F432E8_360F_8ED2_417D_E1E87C567728.url = media/video_E1B652D8_F941_1D04_41CF_6CD6FAABDEA4_pt.mp4
+videolevel_2C5D668C_3602_8952_4170_3CC9CB06C551.posterURL = media/video_E05927E2_F943_0304_41E4_FB8B337928A4_poster_pt.jpg
+videolevel_2C5D668C_3602_8952_4170_3CC9CB06C551.url = media/video_E05927E2_F943_0304_41E4_FB8B337928A4_pt.mp4
+videolevel_2C5D85D8_3602_8AF1_41C1_C66F2A23170A.posterURL = media/video_E0A260AD_F93F_1D1C_41E3_F9F5C8F64CAA_poster_pt.jpg
+videolevel_2C5D85D8_3602_8AF1_41C1_C66F2A23170A.url = media/video_E0A260AD_F93F_1D1C_41E3_F9F5C8F64CAA_pt.mp4
+videolevel_2C5DF62D_3602_8952_41C3_97212BE06943.posterURL = media/video_E1B652D8_F941_1D04_41CF_6CD6FAABDEA4_poster_pt.jpg
+videolevel_2C5DF62D_3602_8952_41C3_97212BE06943.url = media/video_E1B652D8_F941_1D04_41CF_6CD6FAABDEA4_pt.mp4
 
 ## Popup
 
@@ -61,18 +61,18 @@ tour.name = Vila Picotes
 
 ### Text
 Menu_3FE26D21_3602_966E_41C5_101427913888.label = Media
-MenuItem_203119DD_360E_7AF2_41AF_5B6727BBA7F9.label = centro_intern_01
-MenuItem_2031A9DD_360E_7AF2_41B8_68B659755168.label = centro_intern_02
-MenuItem_203179DD_360E_7AF2_41BF_DC691F8B9B6E.label = entrada_pedravisão
-MenuItem_203139DD_360E_7AF2_41C1_19EDBD18A386.label = frente santa
-MenuItem_203049DD_360E_7AF2_41C1_C614F1CAE222.label = frente_igreja
-MenuItem_2030F9DD_360E_7AF2_41AE_1147B5734A17.label = igreja_intern
-MenuItem_203EF9DD_360E_7AF2_4195_DDD44E652A41.label = lajedo santa
-MenuItem_2031D9DD_360E_7AF2_41B8_4D417B7F3617.label = pedra da visão
-MenuItem_2031C9DD_360E_7AF2_419D_9F6AF465B3CC.label = santa
-MenuItem_203019DD_360E_7AF2_41B7_F7F3E1D69F63.label = temp_image_for_default_share
-MenuItem_203069DD_360E_7AF2_41C5_B25159839287.label = temp_image_for_default_share (1)
-MenuItem_203E89DD_360E_7AF2_41BD_3074E2D91AEB.label = via_início trilha
-MenuItem_203159DD_360E_7AF2_41C2_009EC70A7570.label = vila_centroCultural
-MenuItem_203EE9DD_360E_7AF2_41B3_E3E4DFF9D9C7.label = vila_entrada02
-MenuItem_203ED9DD_360E_7AF2_41C1_D446EEBDC0B0.label = vila_restaurante
+MenuItem_2C7EF899_3602_9973_41C4_35CD37F280CF.label = centro_intern_01
+MenuItem_2C710899_3602_9973_41C6_EC8AEBE5F825.label = centro_intern_02
+MenuItem_2C717899_3602_9973_41B7_F5E78DB1DEF9.label = entrada_pedravisão
+MenuItem_2C7E0899_3602_9973_41B6_5A99301EA6B2.label = frente santa
+MenuItem_2C711899_3602_9973_41C9_9F8D021429FF.label = frente_igreja
+MenuItem_2C712899_3602_9973_41AB_18FA7B764042.label = igreja_intern
+MenuItem_2C713899_3602_9973_41B8_B47E6E7DF47A.label = lajedo santa
+MenuItem_2C7EB899_3602_9973_41CA_23252DA060E4.label = pedra da visão
+MenuItem_2C7EA899_3602_9973_41B3_3CAFDCCFB6CA.label = santa
+MenuItem_2C716899_3602_9973_41BB_E757FB9E3E7A.label = temp_image_for_default_share
+MenuItem_2C7EE899_3602_9973_41B5_1E8AA0FB4B47.label = temp_image_for_default_share (1)
+MenuItem_2C714899_3602_9973_41C1_BDBA4AF9BB91.label = via_início trilha
+MenuItem_2C7EC899_3602_9973_4182_54ADAFA2AF35.label = vila_centroCultural
+MenuItem_2C715899_3602_9973_41C4_5AAB7664AB4F.label = vila_entrada02
+MenuItem_2C7E9899_3602_9973_41C2_D4EBCBA213A4.label = vila_restaurante
