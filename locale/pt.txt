@@ -3,8 +3,18 @@
 ## Hotspot
 
 ### Text
-HotspotPanoramaOverlayTextImage_3F4D8C46_3602_9632_41BA_4692BAACEF21.text = Capela de Santo Antônio
-HotspotPanoramaOverlayTextImage_3F482C37_3602_9652_417D_502FCF7C2233.text = Centro Cultural de Picotes
+HotspotPanoramaOverlayTextImage_7BB9A35B_4441_8841_41C9_B23C0A1DFDA1.text = Capela de Santo Antônio
+HotspotPanoramaOverlayTextImage_745F6AA6_444F_B8C0_41C4_69E6638E74A0.text = Centro Cultural de Picotes
+HotspotPanoramaOverlayTextImage_1D67B354_3C47_8840_4193_42C5F7AFE8A0.text = Clique aqui
+HotspotPanoramaOverlayTextImage_1605F101_3C41_89C1_41B5_07ED1C1750DC.text = Clique nos botões das  \
+televisões para interagir
+HotspotPanoramaOverlayTextImage_73F50285_4441_88C0_41B1_A0A0586816EA.text = Serrote Chato
+HotspotPanoramaOverlayTextImage_7299A161_4446_8840_41AF_27843729FBAC.text = Serrote Fino
+HotspotPanoramaOverlayTextImage_0FBAD4CC_3BBE_8840_41CE_FD43B34C03F9.text = Trilha de entrada para \
+a Pedra da Visão.
+
+### Tooltip
+HotspotPanoramaOverlayArea_1DBCD42E_3C47_8FC0_41C8_C99C4E3B9B15.toolTip = teste
 
 ## Media
 
@@ -12,12 +22,24 @@ HotspotPanoramaOverlayTextImage_3F482C37_3602_9652_417D_502FCF7C2233.text = Cent
 AudioResource_3FE1FD21_3602_966E_41B6_82B0E22B134E.mp3Url = media/audio_0DC65E1B_1B65_BBC6_41B7_C777D457D8FB_pt.mp3
 
 ### Image
-imlevel_2603BF6E_360E_B2F2_41A8_DC732099686D.url = media/panorama_F390E36C_F8C1_031C_41E0_081AB2B2711C_HS_6rhrpwx9_pt.png
-imlevel_2FC7689C_3607_9972_41C0_43A41453C6B3.url = media/panorama_F39EABEF_F8C3_031C_41DF_A2480EA644FE_HS_u8yz4zvp_pt.png
+imlevel_78E19D98_4442_B8C0_419C_9170D38249C8.url = media/panorama_16B09B70_1862_83BC_417A_7573C48C2784_HS_hwcku41l_pt.png
+imlevel_7E451D81_4441_98C0_41CF_D5DF9D980EE7.url = media/panorama_F390E36C_F8C1_031C_41E0_081AB2B2711C_HS_md7npjhm_pt.png
+imlevel_7DF7C09F_4446_88C1_41B0_9A82CA72C148.url = media/panorama_F39EABEF_F8C3_031C_41DF_A2480EA644FE_HS_6mx9y4s8_pt.png
+imlevel_08573C3F_4441_BFC0_415E_39E9E952634C.url = media/panorama_F39EABEF_F8C3_031C_41DF_A2480EA644FE_HS_wj1yut1s_pt.png
+imlevel_7DF11070_4446_8840_4190_803B835D9447.url = media/panorama_F39EABEF_F8C3_031C_41DF_A2480EA644FE_HS_z02vuv3x_pt.png
+imlevel_7693794F_4441_9840_41CF_921A3B447EE2.url = media/panorama_F3E8606F_F8C3_3D1C_41EA_911C44A41A5B_HS_wloi0kaw_pt.png
+imlevel_14535595_3C4E_88C0_41C7_2D52E3DF2EDF.url = media/panorama_F3F11E4B_F8C3_0504_41CC_EAC168799FE8_HS_5s3tos7w_pt.png
+imlevel_1EA3F448_3C42_8840_41CD_EBFB25A0814A.url = media/popup_1ED06F69_3C42_F840_41C3_C06AEC6B75C8_pt_0_0.png
+imlevel_1EAE0448_3C42_8840_41AB_4CDA79FF39B7.url = media/popup_1ED06F69_3C42_F840_41C3_C06AEC6B75C8_pt_0_1.png
+imlevel_1EA1F448_3C42_8840_41C9_1F9CC7EEC09D.url = media/popup_1ED06F69_3C42_F840_41C3_C06AEC6B75C8_pt_0_2.png
+
+### Popup Image
 
 ### Title
+album_2EDC290A_3A94_A50A_41B3_171FE55A6AA2_0.label = Aviso
 video_E0A260AD_F93F_1D1C_41E3_F9F5C8F64CAA.label = Cin, asp e uru
 video_E1B652D8_F941_1D04_41CF_6CD6FAABDEA4.label = Deserto _ Trailer Oficial
+panorama_16B09B70_1862_83BC_417A_7573C48C2784.label = Drone1
 photo_23AE9660_3602_92EE_41BF_7F31D575FE25.label = IMG20220415080125
 video_E05927E2_F943_0304_41E4_FB8B337928A4.label = Nissan Frontier _ Título_ O Caçador de Nuvens
 panorama_F309B847_F8C3_0D0C_41DD_F82608E9B275.label = centro_intern_01
@@ -29,26 +51,27 @@ panorama_F39A6326_F8C3_030C_41CB_BA56ADE1AF74.label = igreja_intern
 panorama_F5291358_F8C1_0303_41CF_6561A3E3C386.label = lajedo santa
 panorama_F39AC179_F8C1_1F04_41DB_486FD52FB70F.label = pedra da visão
 panorama_E451B723_FFAB_66D9_41C2_5AE61B7D6D92.label = santa
-panorama_16B09B70_1862_83BC_417A_7573C48C2784.label = temp_image_for_default_share
+panorama_7CEC6935_4441_B9C0_41C5_A59DAF831122.label = temp_image_for_default_share
 panorama_09D9599C_1862_8F64_418C_B8268086F08A.label = temp_image_for_default_share (1)
 panorama_F39F28D5_F8C1_0D0D_41BE_E812FC7F6DEF.label = via_início trilha
 panorama_F390E36C_F8C1_031C_41E0_081AB2B2711C.label = vila_centroCultural
 panorama_E9ABA1EE_F8C1_3F1D_41E7_08C5A957AF04.label = vila_entrada02
 panorama_F39EB1F5_F8C1_1F0C_41B9_FB3061C97EF1.label = vila_restaurante
+album_2EDC290A_3A94_A50A_41B3_171FE55A6AA2.label = Álbum de Fotos Aviso
 
 ### Video
-videolevel_2C5D668C_3602_8952_4170_3CC9CB06C551.posterURL = media/video_E05927E2_F943_0304_41E4_FB8B337928A4_poster_pt.jpg
-videolevel_2C5D668C_3602_8952_4170_3CC9CB06C551.url = media/video_E05927E2_F943_0304_41E4_FB8B337928A4_pt.mp4
-videolevel_2C5D85D8_3602_8AF1_41C1_C66F2A23170A.posterURL = media/video_E0A260AD_F93F_1D1C_41E3_F9F5C8F64CAA_poster_pt.jpg
-videolevel_2C5D85D8_3602_8AF1_41C1_C66F2A23170A.url = media/video_E0A260AD_F93F_1D1C_41E3_F9F5C8F64CAA_pt.mp4
-videolevel_2C5DF62D_3602_8952_41C3_97212BE06943.posterURL = media/video_E1B652D8_F941_1D04_41CF_6CD6FAABDEA4_poster_pt.jpg
-videolevel_2C5DF62D_3602_8952_41C3_97212BE06943.url = media/video_E1B652D8_F941_1D04_41CF_6CD6FAABDEA4_pt.mp4
+videolevel_088B8120_4441_89C0_41A2_2BF3CD1A3EB0.posterURL = media/video_E05927E2_F943_0304_41E4_FB8B337928A4_poster_pt.jpg
+videolevel_088B8120_4441_89C0_41A2_2BF3CD1A3EB0.url = media/video_E05927E2_F943_0304_41E4_FB8B337928A4_pt.mp4
+videolevel_08942015_4441_87C0_41B9_F7E7634006DD.posterURL = media/video_E0A260AD_F93F_1D1C_41E3_F9F5C8F64CAA_poster_pt.jpg
+videolevel_08942015_4441_87C0_41B9_F7E7634006DD.url = media/video_E0A260AD_F93F_1D1C_41E3_F9F5C8F64CAA_pt.mp4
+videolevel_0897B097_4441_88C0_41A4_6995F7C4D5B4.posterURL = media/video_E1B652D8_F941_1D04_41CF_6CD6FAABDEA4_poster_pt.jpg
+videolevel_0897B097_4441_88C0_41A4_6995F7C4D5B4.url = media/video_E1B652D8_F941_1D04_41CF_6CD6FAABDEA4_pt.mp4
 
 ## Popup
 
 ### Body
-htmlText_258D5155_363E_8ED6_41B7_8AE1ECC526BA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;font-family:'Freehand521 BT';">A vila de Picotes começou a ser povoada por volta de 1900. Pouco tempo depois, se transformou em parada obrigatória para comerciantes de algodão da região. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;font-family:'Freehand521 BT';">Hoje, mesmo com poucos moradores, a vila ganhou notoriedade no cenário estadual com seu festival cultural, realizado nos meses de novembro, e devido aos filmes gravados no local, Picotes hoje ganhou o título de "A Vila do Cinema Brasiliero".</SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_25CB94B1_360D_966E_41C7_E9C2B9A7D27E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A capela de Santo Antonio foi construída em 1920. Desde sua fundação é realizada todos os anos, nos meses de junho, a Festa de Santo Antônio. Evento este já no calendário oficial do Município de São Mamede</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:right;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;">Foto: André Menezes</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_19A2E843_3C42_9840_41CB_5D9402C39B55.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:17.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;">A vila de Picotes começou a ser povoada por volta de 1900. Pouco tempo depois, se transformou em parada obrigatória para comerciantes de algodão da região. </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:17.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;">Hoje a vila ganhou notoriedade no cenário nacional com seu festival cultural, realizado nos meses de novembro. Devido aos filmes gravados no local, Picotes ostenta o título de "A Vila do Cinema Brasileiro".</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_0CD5331B_3BC1_89C0_41C0_1834F80B4CD6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A capela de Santo Antonio foi construída em 1920. Desde sua fundação é realizada todos os anos, nos meses de junho, a Festa de Santo Antônio. Evento este já no calendário oficial do Município de São Mamede</SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:right;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:right;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;">Foto: André Menezes</SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Tour
 
@@ -60,19 +83,20 @@ tour.name = Vila Picotes
 ## VR Menu
 
 ### Text
+MenuItem_08D9B347_4441_8840_41C7_C52055E3E641.label = Drone1
 Menu_3FE26D21_3602_966E_41C5_101427913888.label = Media
-MenuItem_2C7EF899_3602_9973_41C4_35CD37F280CF.label = centro_intern_01
-MenuItem_2C710899_3602_9973_41C6_EC8AEBE5F825.label = centro_intern_02
-MenuItem_2C717899_3602_9973_41B7_F5E78DB1DEF9.label = entrada_pedravisão
-MenuItem_2C7E0899_3602_9973_41B6_5A99301EA6B2.label = frente santa
-MenuItem_2C711899_3602_9973_41C9_9F8D021429FF.label = frente_igreja
-MenuItem_2C712899_3602_9973_41AB_18FA7B764042.label = igreja_intern
-MenuItem_2C713899_3602_9973_41B8_B47E6E7DF47A.label = lajedo santa
-MenuItem_2C7EB899_3602_9973_41CA_23252DA060E4.label = pedra da visão
-MenuItem_2C7EA899_3602_9973_41B3_3CAFDCCFB6CA.label = santa
-MenuItem_2C716899_3602_9973_41BB_E757FB9E3E7A.label = temp_image_for_default_share
-MenuItem_2C7EE899_3602_9973_41B5_1E8AA0FB4B47.label = temp_image_for_default_share (1)
-MenuItem_2C714899_3602_9973_41C1_BDBA4AF9BB91.label = via_início trilha
-MenuItem_2C7EC899_3602_9973_4182_54ADAFA2AF35.label = vila_centroCultural
-MenuItem_2C715899_3602_9973_41C4_5AAB7664AB4F.label = vila_entrada02
-MenuItem_2C7E9899_3602_9973_41C2_D4EBCBA213A4.label = vila_restaurante
+MenuItem_08D9C347_4441_8840_41B1_9FA140CE27CD.label = centro_intern_01
+MenuItem_08D92346_4441_8840_41C2_44D7F1DB3FE1.label = centro_intern_02
+MenuItem_08DA6347_4441_8840_418F_294DEF0DFAAA.label = entrada_pedravisão
+MenuItem_08D9F346_4441_8841_41BB_2393E4D8B91D.label = frente santa
+MenuItem_08D94346_4441_8840_41A6_5F084736465F.label = frente_igreja
+MenuItem_08D96346_4441_8840_4183_BC01A487FA05.label = igreja_intern
+MenuItem_08D97346_4441_8840_41B0_0966AC577873.label = lajedo santa
+MenuItem_08D9D347_4441_8840_41B6_341E840DEEC2.label = pedra da visão
+MenuItem_08D95346_4441_8840_41CC_7C405CB001EE.label = santa
+MenuItem_08DA7347_4441_8840_41B3_BEBDF54DC40D.label = temp_image_for_default_share
+MenuItem_08D91346_4441_8840_41C6_4081BF96F594.label = temp_image_for_default_share (1)
+MenuItem_08D88346_4441_8840_41C3_5539967BD2DE.label = via_início trilha
+MenuItem_08D98347_4441_8840_41C2_D4DC751A7E5B.label = vila_centroCultural
+MenuItem_08D89346_4441_8840_41B7_386A1C92B2DD.label = vila_entrada02
+MenuItem_08D8B345_4441_8840_4179_83CA6C3C4C46.label = vila_restaurante
